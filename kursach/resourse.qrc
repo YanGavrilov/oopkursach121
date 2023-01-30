@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/res"/>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>img/DNA.png</file>
+        <file>img/questionMark.png</file>
+        <file>img/brush-25471.png</file>
+        <file>img/glasses-10380.png</file>
+        <file>img/cross-12802.png</file>
+        <file>img/mysql-26345.png</file>
+        <file>img/algorithm.png</file>
+        <file>img/arrow2.png</file>
+        <file>img/clipart1619109.png</file>
+        <file>img/XML.jpg</file>
+    </qresource>
+</RCC>

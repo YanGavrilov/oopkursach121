@@ -1,0 +1,38 @@
+Number1
+Parents:  AaBb,AaBb
+
+/,       AB,       Ab,       Ba,       ab,       
+AB,       AABB,       AABb,       AaBB,       AaBb,       
+Ab,       AABb,       AAbb,       AaBb,       Aabb,       
+Ba,       AaBB,       AaBb,       aaBB,       aaBb,       
+ab,       AaBb,       Aabb,       aaBb,       aabb,       
+
+Alleles: ,AABB,AABb,AaBB,AaBb,AAbb,Aabb,BBaa,Bbaa,aabb,
+Ratio: ,1,2,2,4,1,2,1,2,1,
+
+Children: q,z,6.25%
+Children: q,z,12.5%
+Children: q,z,12.5%
+Children: q,z,25%
+Children: q,
+Children: q,
+z,6.25%
+z,12.5%
+
+
+№2
+Parents: , AABB,AABb
+
+/,AB,Ab,AB,Ab,
+AB,AABB,AABb,AABB,AABb,
+AB,AABB,AABb,AABB,AABb,
+AB,AABB,AABb,AABB,AABb,
+AB,AABB,AABb,AABB,AABb,
+
+Alleles: ,AABB,AABb,
+Ratio: ,8,8,
+
+Children: q,z,50%
+
+Children: q,z,50%
+

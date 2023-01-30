@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Genetics</class>
+ <widget class="QWidget" name="Genetics">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>774</width>
+    <height>539</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Genetics data</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: qlineargradient(spread:repeat, x1:0, y1:0, x2:1, y2:1, stop:0.151685 rgba(8, 102, 82, 255), stop:0.747191 rgba(32, 68, 109, 255));</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

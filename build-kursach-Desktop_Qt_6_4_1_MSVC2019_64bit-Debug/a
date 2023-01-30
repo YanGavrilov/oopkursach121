@@ -1,0 +1,21 @@
+Number1
+Parents:  AaBb,AaBb
+
+/,       AB,       Ab,       Ba,       ab,       
+AB,       AABB,       AABb,       AaBB,       AaBb,       
+Ab,       AABb,       AAbb,       AaBb,       Aabb,       
+Ba,       AaBB,       AaBb,       aaBB,       aaBb,       
+ab,       AaBb,       Aabb,       aaBb,       aabb,       
+
+Alleles: ,AABB,AABb,AaBB,AaBb,AAbb,Aabb,BBaa,Bbaa,aabb,
+Ratio: ,1,2,2,4,1,2,1,2,1,
+
+Children: q,x,6.25%
+Children: q,x,12.5%
+Children: q,x,12.5%
+Children: q,x,25%
+Children: q,
+Children: q,
+x,6.25%
+x,12.5%
+
